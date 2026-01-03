@@ -158,7 +158,7 @@ function DefaultComponent() {
 function Feature({
   icon,
   title,
-  desc,
+  desc
 }: {
   icon: React.ReactNode
   title: string
