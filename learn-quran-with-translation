@@ -1,6 +1,7 @@
 // No 'export default' needed here because of the 'new Function' wrapper
 
 function DefaultComponent() {
+const { BookOpen, Headphones, Languages, Clock, Users } = Lucide;
   return (
     <main className="bg-background">
 
