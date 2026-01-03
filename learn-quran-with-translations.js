@@ -1,5 +1,8 @@
 // No 'export default' needed here because of the 'new Function' wrapper
-
+const metaData = {
+  title: "Learn Quran with Translation",
+  description: "A calm, guided Quran learning experience for students."
+};
 function DefaultComponent() {
 const { BookOpen, Headphones, Languages, Clock, Users } = Lucide;
   return (
