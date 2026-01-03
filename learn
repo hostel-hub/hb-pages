@@ -148,7 +148,7 @@ function DefaultComponent() {
             Join the Program
           </button>
         </div>
-      </section>
+      </section> 
 
     </main>
   )
