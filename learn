@@ -159,10 +159,6 @@ function Feature({
   icon,
   title,
   desc 
-}: {
-  icon: React.ReactNode
-  title: string
-  desc: string
 }) {
   return (
     <div className="bg-card rounded-2xl p-6 shadow-sm hover:shadow-md transition">
