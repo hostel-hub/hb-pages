@@ -1,7 +1,4 @@
 // No 'export default' needed here because of the 'new Function' wrapper
-import Image from "next/image"
-import { BookOpen, Headphones, Languages, Clock, Users } from "lucide-react"
-import Link from "next/link"
 
 function DefaultComponent() {
   return (
