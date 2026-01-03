@@ -159,7 +159,7 @@ function Feature({
   desc 
 }) {
   return (
-    <div className="bg-card rounded-2xl p-6 shadow-sm hover:shadow-md transition">
+    <div className="bg-card rounded-2xl p-6   transition">
       <div className="w-12 h-12 rounded-xl bg-accent/10 text-accent flex items-center justify-center mb-4">
         {icon}
       </div>
