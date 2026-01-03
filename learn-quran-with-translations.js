@@ -45,7 +45,7 @@ const { BookOpen, Headphones, Languages, Clock, Users } = Lucide;
           <div className="relative">
             <div className="absolute -top-6 -left-6 w-full h-full bg-accent/10 rounded-3xl"></div>
             <Image
-              src="https://images.unsplash.com/photo-1590086782792-42dd2350140d"
+              src="https://images.unsplash.com/photo-1574545640323-59dc7a2b4a6d?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Student reciting Quran"
               width={600}
               height={500}
